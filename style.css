@@ -1,0 +1,46 @@
+body{
+    background-image:url('todofinal.jpeg') ;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+   
+}
+
+.col-md-5{
+    margin-top:150px !important;
+    background-color:white !important;
+    
+
+}
+
+h1{
+    text-align:center;
+    font-weight:bolder !important;
+    margin:20px !important;
+}
+input{
+    display:inline !important;
+    border:3px solid black !important;
+    width:85% !important;
+   
+}
+
+button{
+    margin-left:10px !important;
+}
+
+li{
+    list-style-type:none;
+    font-size:20px;
+    text-align:center;
+    width:70%;
+    display:inline;
+    margin:10px;
+   
+}
+
+i{
+    color:red;
+}
